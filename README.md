@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @FurqanNiaz
-- 👀 I’m interested in website developming
-- 🌱 I’m currently learning in website development
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning in web development
